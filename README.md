@@ -42,7 +42,7 @@ The R scripts used in this project are structured for reproducibility and can be
 Ensure you have R installed and the following packages: `data.table`, `dplyr`, `ggplot2`, `plotly`, `knitr`, `kableExtra`. Clone this repository and run the scripts in your R environment to reproduce the analysis and visualizations.
 
 ## Authors
-- [Your Name]
+- Shaurya Sethi
 
 ## Acknowledgments
 - Lahman Baseball Database for providing the datasets used in this analysis.
