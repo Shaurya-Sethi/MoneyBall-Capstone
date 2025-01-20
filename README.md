@@ -9,10 +9,10 @@ This project uses statistical analysis to identify cost-effective replacement pl
 
 ## Lost Players Data
 Here's a summary of the data for the players who were lost:
-[View the Interactive Table](https://github.com/Shaurya-Sethi/MoneyBall-Capstone/blob/main/LostTable.html)
+[View the Interactive Table](https://shaurya-sethi.github.io/MoneyBall-Capstone/LostTable.html)
 ## Replacement Players Data
 Summary of the replacement players identified by the analysis:
-[View the Interactive Table](https://github.com/Shaurya-Sethi/MoneyBall-Capstone/blob/main/ReplTable.html)
+[View the Interactive Table](https://shaurya-sethi.github.io/MoneyBall-Capstone/ReplTable.html)
 ## Analysis Results and Visualizations
 ### Performance Efficiency of Replacement Players
 ![Performance Efficiency of Replacement Players](https://github.com/Shaurya-Sethi/MoneyBall-Capstone/blob/main/ReplPerf.png)
